@@ -28,7 +28,7 @@ A website screenshot capture utility which can **capture screenshots** of the we
     - It will take screenshots in **Desktop, iPad, iPhone, iPhone Plus, and iPhone x** view.   
 
 **Below given folder structure, post executing the screen capture command**
-
+```
     node_modules
     Websites >
             git-image >
@@ -47,7 +47,10 @@ A website screenshot capture utility which can **capture screenshots** of the we
         package-lock.json
         package.json
 
-##Set up to capture screenshot for you     
+```
+
+# Project Set up to capture screenshot.  
+
 - Create a copy of gitscreenshot.js file in the same place
 - Rename it to your website which screen you want to capture, eg - **gitdocument.js**
 - Open **gitdocument.js** file
