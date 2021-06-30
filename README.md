@@ -52,7 +52,7 @@ A website screenshot capture utility which can **capture screenshots** of the we
 - Rename it to your website which screen you want to capture, eg - **gitdocument.js**
 - Open **gitdocument.js** file
 
-####**Code Explanation**
+**Code Explanation**
 ---
 ```
 const pages= [
