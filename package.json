@@ -1,0 +1,21 @@
+{
+  "name": "b_capture",
+  "version": "1.0.0",
+  "description": "With the help of this tool you can capture the screenshot of website in the resolution you provide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "capture-website": "^0.8.1",
+    "fs": "0.0.1-security",
+    "node-server-screenshot": "^0.2.3",
+    "phantomjs": "^2.1.7",
+    "puppeteer": "^2.1.1",
+    "webpage-capture": "^0.2.2",
+    "webshot": "^0.18.0"
+  }
+}
